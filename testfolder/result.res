@@ -1,0 +1,2 @@
+AFile.f
+afile.A

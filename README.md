@@ -10,3 +10,7 @@
 ## Laboratorul 4
 
 - Am rezolvat tot
+
+## Laboratorul 5
+
+- Am rezolvat tot si am adaugat si un folder ce este parcurs ca test de catre exercitii
